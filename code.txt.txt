@@ -2,3 +2,12 @@ Git commands:-
 git add filename:-to add the filename into the local repository
 
 git add .:-to add the current directory
+
+git config --global user.email "amitk7322@gmail.com"
+
+git commit -m "adding code.txt"
+
+git push origin main
+
+
+git commit -m "updated code.txt"
