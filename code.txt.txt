@@ -1,0 +1,4 @@
+Git commands:-
+git add filename:-to add the filename into the local repository
+
+git add .:-to add the current directory
